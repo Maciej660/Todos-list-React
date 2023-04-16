@@ -8,5 +8,6 @@ html {
 
 body {
   font-family: 'Alegreya', sans-serif;
-  background: #eee;
+  background-color: #eee;
+  word-break: break-word;
 }
