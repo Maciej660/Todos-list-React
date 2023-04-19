@@ -3,6 +3,9 @@
 # Description
 Simple to-do-list. This is a project from the youcode course. This is my first task list that was bootstrapped with Create React App.
 
+# Visit my website
+https://maciej660.github.io/todos-list-react/
+
 # Technologies
 HTML
 CSS
